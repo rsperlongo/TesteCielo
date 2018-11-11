@@ -2,5 +2,5 @@
 
 O sistema MVP consiste em dois componentes distintos:
 
-<p>Lista integrada: Lista integrada a uma API pelo  método GET</p>
-<p>Gráfico Dinâmico: Gráfico usando o pacote Chartist pelo Bower. Gráfico dinâmico que altera conforme dados inputados</p>
+<small>Lista integrada: Lista integrada a uma API pelo  método GET</small>
+<small>Gráfico Dinâmico: Gráfico usando o pacote Chartist pelo Bower. Gráfico dinâmico que altera conforme dados inputados</small>
