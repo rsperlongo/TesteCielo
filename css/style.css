@@ -1,0 +1,5 @@
+.ct-chart-donut .ct-label, .ct-chart-pie .ct-label {
+    dominant-baseline: central;
+    font-size: 21PX;
+    font-weight: 700;
+}
